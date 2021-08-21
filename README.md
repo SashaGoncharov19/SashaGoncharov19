@@ -47,4 +47,4 @@ I'm 17 years old, and i from Ukraine. I like:
   <strong>And more.</strong>
 
 ## Develop monitoring
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SashaGoncharov19&layout=compact)
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Uristri&layout=compact)
