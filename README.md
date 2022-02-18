@@ -3,13 +3,13 @@ I'm 18 years old, and i'm from Ukraine. I like:
 > <p> - :beer: Beer!
 > <p>- :fish: Dried fish!
 > <p>- :video_game: Video-games!
-<p>and writing code, sure, when i have a free-time. <br>
+<p>and writing code. <br>
   
   I'm fullstack developer (without design/mobile developing). I'm learning developing on my own.
 
 ## I like coding on:
-  <strong>Languages:</strong> CSS3, HTML, PHP, JAVASCRIPT. <br>
-  <strong>Fork's:</strong> VUE JS. <br>
+  <strong>Languages:</strong> CSS3, HTML, PHP, JAVASCRIPT, TYPESCRIPT. <br>
+  <strong>Fork's:</strong> VUE JS, REACT/REDUX JS, EXPRESS, NODE JS. <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGoncharov19)
   
 ## Programs which I using:
