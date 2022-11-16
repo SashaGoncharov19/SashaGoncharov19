@@ -18,3 +18,9 @@ I'm 18 years old, and i'm from Ukraine. I like:
 
 ## Develop monitoring
   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Uristri&layout=compact)
+  
+## Visitors counter
+  
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/sashagoncharov19/count.svg" />
+ </p>
