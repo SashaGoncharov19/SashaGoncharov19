@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm indie developer, with 2 years of commercial experience in JS.<br>Also I'm working on my game in UE5. <br>Goal to be second Elon Musk.<br><br>Virtual production and gamedev it's a future.<br>Working on multiplayer for RDR2.
+I'm indie developer, with 3 years of commercial experience in JS.<br>Also I'm working on my game in UE5. <br>Goal to be second Elon Musk.<br><br>Virtual production and gamedev it's a future.<br>Working on multiplayer for RDR2.
 
 
 ## 🌐 Socials:
